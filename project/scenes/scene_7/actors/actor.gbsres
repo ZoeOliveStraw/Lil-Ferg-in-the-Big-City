@@ -1,0 +1,54 @@
+{
+  "_resourceType": "actor",
+  "id": "91855f05-728c-4a77-8a97-640c40498ea6",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "de3c4a58-6d6d-4f1a-b949-6cac803361b1",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_14",
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Whoever is cooking\nvery fragrant food",
+          "please share some\nwith me next time."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "c512682e-b7de-4ef9-b8e1-dc1ba77ac7fa"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 9,
+  "y": 8,
+  "_index": 0
+}

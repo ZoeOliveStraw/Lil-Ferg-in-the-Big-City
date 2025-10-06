@@ -13,7 +13,7 @@
   "collisions": "0f68+00c+0f8+00c+0f8+00c+0f8+00c+0f8+00c+0f8+00c+0f8+00c+0f8+00c+0f8+00c+0fd+002+0f12+002+0f31+",
   "autoFadeSpeed": 1,
   "symbol": "scene_3",
-  "x": 136,
+  "x": 520,
   "y": 96,
   "script": [],
   "playerHit1Script": [],

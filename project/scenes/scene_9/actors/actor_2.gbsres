@@ -1,0 +1,54 @@
+{
+  "_resourceType": "actor",
+  "id": "9af0f362-b574-494a-bc04-8da693858e21",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "de3c4a58-6d6d-4f1a-b949-6cac803361b1",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_17",
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "The Church of\nJeffrey,",
+          "Non-Jefferies, be\nrespectful."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "cff74c7a-af5c-43ae-953f-a9bf8b6f95b4"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 18,
+  "y": 5,
+  "_index": 1
+}

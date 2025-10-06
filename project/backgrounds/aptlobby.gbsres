@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "d5db071a-8fe6-44a9-a2c7-2a520049db64",
+  "name": "AptLobby",
+  "symbol": "bg_aptlobby",
+  "width": 32,
+  "height": 18,
+  "imageWidth": 256,
+  "imageHeight": 144,
+  "filename": "AptLobby.png",
+  "tileColors": ""
+}

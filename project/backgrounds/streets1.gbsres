@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "6e80347c-2ce7-41ae-8491-2d8ae688d279",
+  "name": "Streets1",
+  "symbol": "bg_streets1",
+  "width": 32,
+  "height": 18,
+  "imageWidth": 256,
+  "imageHeight": 144,
+  "filename": "Streets1.png",
+  "tileColors": ""
+}

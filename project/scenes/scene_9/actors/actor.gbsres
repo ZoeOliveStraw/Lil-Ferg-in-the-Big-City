@@ -1,0 +1,54 @@
+{
+  "_resourceType": "actor",
+  "id": "f0e62c26-7281-4341-85a6-367b9523d7b8",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "de3c4a58-6d6d-4f1a-b949-6cac803361b1",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_16",
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "All are Jeffrey,\nJeffrey is all.",
+          "Speak to your\npastor."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "be8e2f0d-3381-4637-b4b6-b67bfdb881cb"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 12,
+  "y": 5,
+  "_index": 0
+}
