@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "7bba0c04-4e0e-49a4-ad7c-c0b7491e59e9",
+  "name": "AptStairs2",
+  "symbol": "bg_aptstairs2",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "AptStairs2.png",
+  "tileColors": ""
+}

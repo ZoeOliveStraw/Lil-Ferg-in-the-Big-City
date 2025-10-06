@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "20ff8ac6-5310-4e1e-b494-7b924f95dd4f",
+  "_index": 4,
+  "name": "Apt Stairs 1",
+  "backgroundId": "87be47ba-d94c-4aaa-b240-92f617952f85",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "0056+0f6+00e+0f!004+0f!00e+0f!004+0f!00a+0f5+004+0f3+008+0f!00a+0f!008+0f!00a+0f!008+0f!00a+0f!008+0f!002+0f9+008+0f!002+0f!0010+0f!002+0f!0010+0f!002+0f!004a+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_5",
+  "x": 64,
+  "y": 288,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "dbde616f-c459-41b8-8fbf-8f08c0a2f0cd"
+}

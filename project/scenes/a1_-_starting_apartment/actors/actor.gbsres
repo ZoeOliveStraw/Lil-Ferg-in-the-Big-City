@@ -1,10 +1,10 @@
 {
   "_resourceType": "actor",
-  "id": "8a510316-0952-4193-89a4-61089dc7cb70",
+  "id": "297a3bee-c700-4f2d-8541-7a5b5bcbdb28",
   "name": "",
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "cb06a825-affc-4d35-9007-1479fc545c1e",
+  "spriteSheetId": "1729172f-1b67-4817-9bdf-6c4a153025e7",
   "prefabId": "",
   "direction": "down",
   "moveSpeed": 1,
@@ -14,14 +14,14 @@
   "persistent": false,
   "collisionGroup": "",
   "prefabScriptOverrides": {},
-  "symbol": "actor_0",
+  "symbol": "actor_1",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "There are books\nof poetry, they",
-          "all seem pretty\ngay."
+          "There's a show on\nabout rats. They",
+          "seem awfully cute\nand smart."
         ],
         "__section": "text",
         "avatarId": "",
@@ -40,7 +40,7 @@
         "closeDelayTime": 0.5,
         "closeDelayFrames": 30
       },
-      "id": "7416dd8d-1025-4c74-ba62-3f0e838dc829"
+      "id": "78cfc5aa-fbd2-4a35-b751-caf58c24012e"
     }
   ],
   "startScript": [],
@@ -48,7 +48,7 @@
   "hit1Script": [],
   "hit2Script": [],
   "hit3Script": [],
-  "x": 2,
+  "x": 14,
   "y": 4,
   "_index": 0
 }

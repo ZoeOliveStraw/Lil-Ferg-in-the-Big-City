@@ -1,12 +1,12 @@
 {
   "_resourceType": "actor",
-  "id": "78b71dfa-aa0d-48d5-9bbe-9e0759b76fab",
+  "id": "9c500bdf-b14a-46de-b0db-b31ce403ae17",
   "name": "",
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "685fbc0b-12c6-4e1c-8a98-ea4f07ff38d0",
+  "spriteSheetId": "cb06a825-affc-4d35-9007-1479fc545c1e",
   "prefabId": "",
-  "direction": "up",
+  "direction": "down",
   "moveSpeed": 1,
   "animSpeed": 15,
   "paletteId": "",
@@ -14,15 +14,13 @@
   "persistent": false,
   "collisionGroup": "",
   "prefabScriptOverrides": {},
-  "symbol": "actor_6",
+  "symbol": "actor_10",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "A note from Zoe...",
-          "Heya Lil Ferg! I\nhope you like your\nnew place! There's",
-          "lots of cool stuff\nfor you to find,\nso go exploring!"
+          "These rats aren't\nwearing clothes!"
         ],
         "__section": "text",
         "avatarId": "",
@@ -41,7 +39,7 @@
         "closeDelayTime": 0.5,
         "closeDelayFrames": 30
       },
-      "id": "77afc7fe-6bff-4a3c-91d7-39d307c40c1e"
+      "id": "262aa165-ebff-4a33-809b-7e79b2255af9"
     }
   ],
   "startScript": [],
@@ -49,7 +47,7 @@
   "hit1Script": [],
   "hit2Script": [],
   "hit3Script": [],
-  "x": 9,
-  "y": 3,
-  "_index": 2
+  "x": 14,
+  "y": 11,
+  "_index": 3
 }

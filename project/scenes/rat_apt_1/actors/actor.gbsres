@@ -20,7 +20,8 @@
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "Cheesed to meet\nyou, Lil Ferg!"
+          "Cheesed to meet\nyou, Lil Ferg!",
+          "Feel free to do\nsome reading here."
         ],
         "__section": "text",
         "avatarId": "",
@@ -48,6 +49,6 @@
   "hit2Script": [],
   "hit3Script": [],
   "x": 9,
-  "y": 6,
+  "y": 8,
   "_index": 0
 }

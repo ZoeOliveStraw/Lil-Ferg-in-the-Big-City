@@ -1,10 +1,10 @@
 {
   "_resourceType": "actor",
-  "id": "297a3bee-c700-4f2d-8541-7a5b5bcbdb28",
+  "id": "bd714dc7-f1db-4507-b756-c2c5ab50fa57",
   "name": "",
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "1729172f-1b67-4817-9bdf-6c4a153025e7",
+  "spriteSheetId": "cb06a825-affc-4d35-9007-1479fc545c1e",
   "prefabId": "",
   "direction": "down",
   "moveSpeed": 1,
@@ -14,14 +14,13 @@
   "persistent": false,
   "collisionGroup": "",
   "prefabScriptOverrides": {},
-  "symbol": "actor_1",
+  "symbol": "actor_2",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "There's a show on\nabout rats. They",
-          "seem awfully cute\nand smart."
+          "There's a book\nabout peanuts here"
         ],
         "__section": "text",
         "avatarId": "",
@@ -40,7 +39,7 @@
         "closeDelayTime": 0.5,
         "closeDelayFrames": 30
       },
-      "id": "78cfc5aa-fbd2-4a35-b751-caf58c24012e"
+      "id": "061dce3f-ed46-4c84-a7d4-28032e35cebf"
     }
   ],
   "startScript": [],
@@ -48,7 +47,7 @@
   "hit1Script": [],
   "hit2Script": [],
   "hit3Script": [],
-  "x": 14,
+  "x": 16,
   "y": 4,
   "_index": 1
 }

@@ -1,10 +1,10 @@
 {
   "_resourceType": "actor",
-  "id": "78b71dfa-aa0d-48d5-9bbe-9e0759b76fab",
+  "id": "e5a3ec34-26db-48e2-810e-d3e306dc0c92",
   "name": "",
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "685fbc0b-12c6-4e1c-8a98-ea4f07ff38d0",
+  "spriteSheetId": "cb06a825-affc-4d35-9007-1479fc545c1e",
   "prefabId": "",
   "direction": "down",
   "moveSpeed": 1,
@@ -14,15 +14,13 @@
   "persistent": false,
   "collisionGroup": "",
   "prefabScriptOverrides": {},
-  "symbol": "actor_6",
+  "symbol": "actor_8",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "A note from Zoe...",
-          "Heya Lil Ferg! I\nhope you like your\nnew place! There's",
-          "lots of cool stuff\nfor you to find,\nso go exploring!"
+          "\"Of Rats and Men\"?\nSounds interesting"
         ],
         "__section": "text",
         "avatarId": "",
@@ -41,7 +39,7 @@
         "closeDelayTime": 0.5,
         "closeDelayFrames": 30
       },
-      "id": "77afc7fe-6bff-4a3c-91d7-39d307c40c1e"
+      "id": "772205b4-1bd2-443e-9e15-7047a14d263d"
     }
   ],
   "startScript": [],
@@ -49,7 +47,7 @@
   "hit1Script": [],
   "hit2Script": [],
   "hit3Script": [],
-  "x": 9,
-  "y": 3,
-  "_index": 3
+  "x": 4,
+  "y": 11,
+  "_index": 1
 }
