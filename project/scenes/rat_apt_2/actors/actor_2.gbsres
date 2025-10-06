@@ -1,0 +1,54 @@
+{
+  "_resourceType": "actor",
+  "id": "978e6f03-de5b-4453-9994-4eb2eda4673c",
+  "name": "",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "10b877aa-1b21-4fbf-a756-292dac0c8faf",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_5",
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Those are weird\nlooking whiskers,",
+          "what kind of rat\nare you, fergie?"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "942e6eef-f499-41f4-9400-4db08b45c6b4"
+    }
+  ],
+  "startScript": [],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 14,
+  "y": 6,
+  "_index": 1
+}

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "95ef4a0a-108c-489f-bc37-db31030612bf",
+  "name": "AptRoom1",
+  "symbol": "bg_aptroom1",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "AptRoom1.png",
+  "tileColors": ""
+}

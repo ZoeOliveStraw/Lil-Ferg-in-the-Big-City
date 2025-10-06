@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "4f8b1650-e04c-42b2-8ccf-c646170e6511",
+  "_index": 2,
+  "name": "Rat Apt 1",
+  "backgroundId": "cc9b9634-d1f6-49bb-a027-21aae5271648",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "0f68+00c+0f8+00c+0f8+00c+0f8+00c+0f8+00c+0f8+00c+0f8+00c+0f8+00c+0f8+00c+0fd+002+0f12+002+0f31+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_3",
+  "x": 136,
+  "y": 96,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "dbde616f-c459-41b8-8fbf-8f08c0a2f0cd"
+}

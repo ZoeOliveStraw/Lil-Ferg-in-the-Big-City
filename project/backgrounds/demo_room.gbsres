@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "4dbf40aa-994f-471e-afe7-03cf13d5c937",
+  "name": "Demo Room",
+  "symbol": "bg_demo_room",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Demo Room.png",
+  "tileColors": ""
+}

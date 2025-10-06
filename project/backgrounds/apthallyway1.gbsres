@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "cdb5e676-42d8-42d0-b143-2f20262df162",
+  "name": "AptHallyway1",
+  "symbol": "bg_apthallyway1",
+  "width": 32,
+  "height": 18,
+  "imageWidth": 256,
+  "imageHeight": 144,
+  "filename": "AptHallyway1.png",
+  "tileColors": ""
+}
