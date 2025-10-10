@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "7040d581-ae54-4211-9773-f7b0f97ca5ab",
+  "name": "Church1",
+  "symbol": "bg_church1",
+  "width": 20,
+  "height": 32,
+  "imageWidth": 160,
+  "imageHeight": 256,
+  "filename": "Church1.png",
+  "tileColors": ""
+}
