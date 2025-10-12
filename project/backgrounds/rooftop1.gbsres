@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "a77ff464-c26a-42b7-8f98-1353bc0578f5",
+  "name": "Rooftop1",
+  "symbol": "bg_rooftop1",
+  "width": 32,
+  "height": 18,
+  "imageWidth": 256,
+  "imageHeight": 144,
+  "filename": "Rooftop1.png",
+  "tileColors": ""
+}
