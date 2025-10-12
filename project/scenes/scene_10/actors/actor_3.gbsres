@@ -1,10 +1,10 @@
 {
   "_resourceType": "actor",
-  "id": "8fd57cfb-78a6-40f9-81cb-917b265eeecc",
+  "id": "34507dac-1c74-4586-903e-dae9bb16f094",
   "name": "",
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "de3c4a58-6d6d-4f1a-b949-6cac803361b1",
+  "spriteSheetId": "f65a0170-9e54-4176-aa9e-8dbeb03624fd",
   "prefabId": "",
   "direction": "down",
   "moveSpeed": 1,
@@ -14,16 +14,14 @@
   "persistent": false,
   "collisionGroup": "",
   "prefabScriptOverrides": {},
-  "symbol": "actor_6",
+  "symbol": "actor_32",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "Welcome to the big\ncity, Lil Ferg!",
-          "There's lots of\ncool stuff to",
-          "explore, so go\nhave fun!",
-          "-Love, Zoe"
+          "Welcome Jeffrey,\nall Jeffreys are",
+          "welcome here."
         ],
         "__section": "text",
         "avatarId": "",
@@ -42,7 +40,7 @@
         "closeDelayTime": 0.5,
         "closeDelayFrames": 30
       },
-      "id": "b249d34d-2c93-47b1-ac7e-8308bdf95b0c"
+      "id": "1a3be2e2-dbb9-4dc0-99b4-56ec782ca05b"
     }
   ],
   "startScript": [],
@@ -50,7 +48,7 @@
   "hit1Script": [],
   "hit2Script": [],
   "hit3Script": [],
-  "x": 9,
-  "y": 2,
+  "x": 7,
+  "y": 29,
   "_index": 2
 }

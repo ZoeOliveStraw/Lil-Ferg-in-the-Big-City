@@ -1,6 +1,6 @@
 {
   "_resourceType": "actor",
-  "id": "8fd57cfb-78a6-40f9-81cb-917b265eeecc",
+  "id": "d0eb68ea-1665-40be-bc98-be231f8c3c31",
   "name": "",
   "frame": 0,
   "animate": false,
@@ -14,16 +14,15 @@
   "persistent": false,
   "collisionGroup": "",
   "prefabScriptOverrides": {},
-  "symbol": "actor_6",
+  "symbol": "actor_23",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "Welcome to the big\ncity, Lil Ferg!",
-          "There's lots of\ncool stuff to",
-          "explore, so go\nhave fun!",
-          "-Love, Zoe"
+          "October 15th,\nthe great love",
+          "begins between\njeffrey and",
+          "her love, Jeffrey\nat an arcade."
         ],
         "__section": "text",
         "avatarId": "",
@@ -42,7 +41,7 @@
         "closeDelayTime": 0.5,
         "closeDelayFrames": 30
       },
-      "id": "b249d34d-2c93-47b1-ac7e-8308bdf95b0c"
+      "id": "e9ae5140-591e-4e45-974e-7f52837abdb0"
     }
   ],
   "startScript": [],
@@ -50,7 +49,7 @@
   "hit1Script": [],
   "hit2Script": [],
   "hit3Script": [],
-  "x": 9,
-  "y": 2,
-  "_index": 2
+  "x": 6,
+  "y": 8,
+  "_index": 0
 }

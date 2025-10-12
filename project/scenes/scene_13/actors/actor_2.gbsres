@@ -1,6 +1,6 @@
 {
   "_resourceType": "actor",
-  "id": "8fd57cfb-78a6-40f9-81cb-917b265eeecc",
+  "id": "b8796cf2-57b1-45d8-af3a-bec1e860590a",
   "name": "",
   "frame": 0,
   "animate": false,
@@ -14,16 +14,13 @@
   "persistent": false,
   "collisionGroup": "",
   "prefabScriptOverrides": {},
-  "symbol": "actor_6",
+  "symbol": "actor_21",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "Welcome to the big\ncity, Lil Ferg!",
-          "There's lots of\ncool stuff to",
-          "explore, so go\nhave fun!",
-          "-Love, Zoe"
+          "This is a sacred\nplace of love."
         ],
         "__section": "text",
         "avatarId": "",
@@ -42,7 +39,7 @@
         "closeDelayTime": 0.5,
         "closeDelayFrames": 30
       },
-      "id": "b249d34d-2c93-47b1-ac7e-8308bdf95b0c"
+      "id": "6642a0e5-e400-4cc6-9291-d61e6bc33d8f"
     }
   ],
   "startScript": [],
@@ -50,7 +47,7 @@
   "hit1Script": [],
   "hit2Script": [],
   "hit3Script": [],
-  "x": 9,
-  "y": 2,
-  "_index": 2
+  "x": 24,
+  "y": 10,
+  "_index": 1
 }

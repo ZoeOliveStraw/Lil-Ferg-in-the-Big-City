@@ -1,6 +1,6 @@
 {
   "_resourceType": "actor",
-  "id": "8fd57cfb-78a6-40f9-81cb-917b265eeecc",
+  "id": "aca00ace-9e12-4f6c-89f8-fe9706fab53a",
   "name": "",
   "frame": 0,
   "animate": false,
@@ -14,16 +14,15 @@
   "persistent": false,
   "collisionGroup": "",
   "prefabScriptOverrides": {},
-  "symbol": "actor_6",
+  "symbol": "actor_29",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "Welcome to the big\ncity, Lil Ferg!",
-          "There's lots of\ncool stuff to",
-          "explore, so go\nhave fun!",
-          "-Love, Zoe"
+          "1776, the United\nJeffreys of",
+          "Jeffrey is founded\nby the founding",
+          "Jeffreys."
         ],
         "__section": "text",
         "avatarId": "",
@@ -42,7 +41,7 @@
         "closeDelayTime": 0.5,
         "closeDelayFrames": 30
       },
-      "id": "b249d34d-2c93-47b1-ac7e-8308bdf95b0c"
+      "id": "80015572-12d1-4f19-be3e-ededb66ad7b7"
     }
   ],
   "startScript": [],
@@ -50,7 +49,7 @@
   "hit1Script": [],
   "hit2Script": [],
   "hit3Script": [],
-  "x": 9,
-  "y": 2,
+  "x": 6,
+  "y": 13,
   "_index": 2
 }
